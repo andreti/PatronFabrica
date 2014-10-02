@@ -1,0 +1,10 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Cocina\bin\Debug\Cocina.dll
+C:\Users\Usuario\AppData\Local\Temporary Projects\Cocina\bin\Debug\Cocina.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Cocina\obj\Debug\Cocina.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Cocina\obj\Debug\Cocina.dll
+C:\Users\Usuario\AppData\Local\Temporary Projects\Cocina\obj\Debug\Cocina.pdb
+d:\Documents\Visual Studio 2012\Projects\Cocina\Cocina\bin\Debug\Cocina.dll
+d:\Documents\Visual Studio 2012\Projects\Cocina\Cocina\bin\Debug\Cocina.pdb
+d:\Documents\Visual Studio 2012\Projects\Cocina\Cocina\obj\Debug\Cocina.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\Cocina\Cocina\obj\Debug\Cocina.dll
+d:\Documents\Visual Studio 2012\Projects\Cocina\Cocina\obj\Debug\Cocina.pdb
